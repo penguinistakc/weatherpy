@@ -156,3 +156,6 @@ fabric.properties
 
 #api keys
 config.py
+
+#mac-specific
+.DS_Store
